@@ -45,8 +45,8 @@ In short: We require that you:
 
 Contact Lasse, CTO of Vesta Merkur:
 
-Lasse Skindstad Ebert
-tel: +45 31 27 04 40
+Lasse Skindstad Ebert  
+tel: +45 31 27 04 40  
 mailto: lasse@wisehome.dk
 
 See more about wise home and Vesta Merkur here:
