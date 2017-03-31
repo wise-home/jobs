@@ -1,12 +1,12 @@
-# Developer for wise home
+# Developer for Wise Home
 
-## About wise home
+## About Wise Home
 
-wise home is a Danish smart home system by Vesta Merkur.
+Wise Home is a Danish smart home system by Vesta Merkur.
 It is targeted to landlords and specializes in automating manual tasks as well as reporting dangerous behaviour that
 could result in damage on the building.
 
-wise home is mainly build with Elixir.
+Wise Home is mainly build with Elixir.
 
 The software project started less than a year ago and has just launched in production with several customers.
 
@@ -49,7 +49,7 @@ Lasse Skindstad Ebert
 tel: +45 31 27 04 40  
 mailto: lasse@wisehome.dk
 
-See more about wise home and Vesta Merkur here:
+See more about Wise Home and Vesta Merkur here:
 
 * [http://wisehome.dk/](http://wisehome.dk/) (In Danish)
 * [http://vestamerkur.dk/](http://vestamerkur.dk/) (In Danish)

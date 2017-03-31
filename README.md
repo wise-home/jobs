@@ -2,4 +2,4 @@
 
 We have a single job opening in Vesta Merkur development:
 
-* [Developer on wise home](https://github.com/vesta-merkur/jobs/blob/master/developer.md)
+* [Developer for Wise Home](https://github.com/vesta-merkur/jobs/blob/master/developer.md)
