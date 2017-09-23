@@ -1,5 +1,7 @@
 # Developer for Wise Home
 
+**Please note: We're currently not looking for this profile, but we will be shortly. Stay tuned :)**
+
 ## About Wise Home
 
 Wise Home is a Danish smart home system by Vesta Merkur.
