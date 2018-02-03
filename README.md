@@ -1,3 +1,4 @@
-# Vesta Merkur open jobs
+# Wise Home open jobs
 
-We currently have no job openings.
+* [Backend developer](https://github.com/vesta-merkur/jobs/blob/master/backend_developer.md)
+* [JS developer](https://github.com/vesta-merkur/jobs/blob/master/js_developer.md)

@@ -1,31 +1,29 @@
-# Developer for Wise Home
-
-**Please note: We're currently not looking for this profile, but we will be shortly. Stay tuned :)**
+# Backend developer for Wise Home
 
 ## About Wise Home
 
-Wise Home is a Danish smart home system by Vesta Merkur.
+Wise Home is the name of the company and the product: A Danish smart home system.
+
 It is targeted to landlords and specializes in automating manual tasks as well as reporting dangerous behaviour that
 could result in damage on the building.
 
-Wise Home is mainly build with Elixir.
+The backend application is mainly build with Elixir
 
-The software project started less than a year ago and has just launched in production with several customers.
+Wise Home have been around since May 2016 and we are now ready to hire more people.
 
 ## The job
 
 We're looking for an Elixir developer or a developer that is willing to learn Elixir.
 
-Vesta Merkur is based in Ry near Aarhus in Denmark. We mostly work remote, but we prefer someone that can commute to
-Ry or Aarhus around once per week.
+Wise Home is based in Ry near Aarhus in Denmark. We mostly work remote, but if you can commute to the office around
+once per week, that will be a plus.
 
 Your responsibilities will depend on your skills and expertise but will fall into working with one or more of these
 areas:
 
 * REST API and main application
 * Internal frontend
-* Firmware for IoT devices
-* Communicating with IoT devices
+* Communicating with IoT devices via well defined protocols.
 
 We can use both a newly graduated computer scientist or a senior developer with Elixir experience. And everything in
 between.
@@ -45,13 +43,12 @@ In short: We require that you:
 
 ## Contact
 
-Contact Lasse, CTO of Vesta Merkur:
+Contact Lasse, lead developer and (soon former) CTO of Wise Home:
 
 Lasse Skindstad Ebert  
 tel: +45 31 27 04 40  
 mailto: lasse@wisehome.dk
 
-See more about Wise Home and Vesta Merkur here:
+See more about Wise Home here:
 
 * [http://wisehome.dk/](http://wisehome.dk/) (In Danish)
-* [http://vestamerkur.dk/](http://vestamerkur.dk/) (In Danish)
