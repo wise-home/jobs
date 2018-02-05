@@ -39,7 +39,7 @@ Your most important skills are:
 
 ## Contact
 
-Contact Lasse, lead backend developer and (soon former) CTO of Wise Home:
+Contact Lasse, lead backend developer and CTO of Wise Home:
 
 Lasse Skindstad Ebert  
 tel: +45 31 27 04 40  
