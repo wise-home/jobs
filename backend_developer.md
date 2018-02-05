@@ -2,7 +2,7 @@
 
 ## About Wise Home
 
-Wise Home is the name of the company and the product: A Danish smart home system.
+Wise Home as a Danish smart home system.
 
 It is targeted to landlords and specializes in automating manual tasks as well as reporting dangerous behaviour that
 could result in damage on the building.
@@ -37,13 +37,13 @@ In short: We require that you:
 
 ## We offer
 
-* A monthly salery based on qualifications
+* A monthly salary based on qualifications
 * An informal and flexible working environment
 * Education (conference trips, books, online courses, studying during work hours, etc)
 
 ## Contact
 
-Contact Lasse, lead developer and (soon former) CTO of Wise Home:
+Contact Lasse, lead backend developer and (soon former) CTO of Wise Home:
 
 Lasse Skindstad Ebert  
 tel: +45 31 27 04 40  
