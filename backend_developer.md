@@ -2,48 +2,42 @@
 
 ## About Wise Home
 
-Wise Home as a Danish smart home system.
+Wise Home is a Danish startup from 2016 that builds smart home systems.
 
-It is targeted to landlords and specializes in automating manual tasks as well as reporting dangerous behaviour that
-could result in damage on the building.
+Our product is targeted to landlords and specializes in automating manual tasks, fulfilling legal requirements and
+reporting the status of the building.
 
-The backend application is mainly build with Elixir
-
-Wise Home have been around since May 2016 and we are now ready to hire more people.
+We beleive that we can disrupt the Danish market by offering a better and fully automated product at a lower price.
 
 ## The job
 
-We're looking for an Elixir developer or a developer that is willing to learn Elixir.
+We are looking for a backend developer to build new features and maintain the existing application.
 
-Wise Home is based in Ry near Aarhus in Denmark. We mostly work remote, but if you can commute to the office around
-once per week, that will be a plus.
+Our stack buzzwords are Elixir, Ubuntu, PostgreSQL, Vagrant, json:api, Zigbee and Wireless M-Bus.
 
-Your responsibilities will depend on your skills and expertise but will fall into working with one or more of these
-areas:
+It is not so important if you have used any of those technologies before. What we need a skilled backend developer
+that is eager to learn new stuff.
 
-* REST API and main application
-* Internal frontend
-* Communicating with IoT devices via well defined protocols.
+Wise Home is based in Ry, near Aarhus, Denmark. The development setup is decentralized and the developers work remote
+around four days per week.
 
-We can use both a newly graduated computer scientist or a senior developer with Elixir experience. And everything in
-between.
+The exact job depends on you and your interests and skills. Some common development tasks are:
 
-In short: We require that you:
-
-* Have experience with Elixir or want to learn Elixir (during work time)
-* Are comfortable with working remote
-* Are comfortable in a unix environment
-* Are fluent in Danish or English
+* Extending and maintaining the main application with all the business logic
+* Building the REST API, which is the public interface to the main application
+* Building the internal maintenance interface
+* Communicating with IoT devices
 
 ## We offer
 
 * A monthly salary based on qualifications
-* An informal and flexible working environment
+* An exciting job in a startup with enthusiastic coworkers
+* Flexible working hours
 * Education (conference trips, books, online courses, studying during work hours, etc)
 
 ## Contact
 
-Contact Lasse, lead backend developer and (soon former) CTO of Wise Home:
+Contact Lasse, lead backend developer and CTO of Wise Home:
 
 Lasse Skindstad Ebert  
 tel: +45 31 27 04 40  
