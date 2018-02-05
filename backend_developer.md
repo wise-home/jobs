@@ -4,12 +4,12 @@ Posted February 2018
 
 ## About Wise Home
 
-Wise Home is a Danish startup from 2016 that builds smart home systems.
+Wise Home is a Danish startup from 2016. We builds smart home systems.
 
 Our product is targeted to landlords and specializes in automating manual tasks, fulfilling legal requirements and
 reporting the status of the building.
 
-We beleive that we can disrupt the Danish market by offering a better and fully automated product at a lower price.
+We believe that we can disrupt the Danish market by offering a better and fully automated product at a lower price.
 
 ## The job
 
@@ -17,11 +17,11 @@ We are looking for a backend developer to build new features and maintain the ex
 
 Our stack buzzwords are Elixir, Ubuntu, PostgreSQL, Vagrant, json:api, Zigbee and Wireless M-Bus.
 
-It is not so important if you have used any of those technologies before. What we need a skilled backend developer
-that is eager to learn new stuff.
+It is not so important if you have used any of those technologies before. What we need is a skilled backend developer
+who is eager to learn new stuff.
 
 Wise Home is based in Ry, near Aarhus, Denmark. The development setup is decentralized and the developers work remote
-around four days per week.
+around four of five days per week.
 
 The exact job depends on you and your interests and skills. Some common development tasks are:
 
@@ -39,7 +39,7 @@ The exact job depends on you and your interests and skills. Some common developm
 
 ## Contact
 
-Contact Lasse, lead backend developer and CTO of Wise Home:
+Contact Lasse, lead backend developer of Wise Home:
 
 Lasse Skindstad Ebert  
 tel: +45 31 27 04 40  
