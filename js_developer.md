@@ -1,5 +1,7 @@
 # Javascript developer for Wise Home
 
+Posted February 2018
+
 ## About Wise Home
 
 Wise Home is a Danish startup from 2016 that builds smart home systems.
