@@ -20,8 +20,8 @@ Our stack buzzwords are Elixir, Ubuntu, PostgreSQL, Vagrant, json:api, Zigbee an
 It is not important if you have used any of those technologies before. What we need is a skilled backend developer
 who is eager to learn new stuff.
 
-Wise Home is based in Ry, near Aarhus, Denmark. The development setup is decentralized and the developers work remote
-around four or five days per week.
+Wise Home is based in Ry, near Aarhus, Denmark. The development setup is decentralized, but the role we seek is
+expected to be able to come to the office at least once every few weeks.
 
 The exact job depends on you and your interests and skills. Some common development tasks are:
 
