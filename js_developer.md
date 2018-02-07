@@ -4,7 +4,7 @@ Posted February 2018
 
 ## About Wise Home
 
-Wise Home is a Danish startup from 2016. We builds smart home systems.
+Wise Home is a Danish startup from 2016. We build smart home systems.
 
 Our product is targeted to landlords and specializes in automating manual tasks, fulfilling legal requirements and
 reporting the status of the building.
