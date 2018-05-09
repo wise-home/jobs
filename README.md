@@ -3,4 +3,6 @@
 Wise Home is a young startup from 2016.
 We are enthusiastic about our jobs and are given the freedom to do our best.
 
-There are currently no open job positions in the development department of Wise Home.
+Open positions:
+
+[Product Designer](https://github.com/wise-home/jobs/blob/master/product_designer.md) (posted May 2018, in Danish)
