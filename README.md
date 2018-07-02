@@ -5,4 +5,7 @@ We are enthusiastic about our jobs and are given the freedom to do our best.
 
 Open positions:
 
-[Product Designer](https://github.com/wise-home/jobs/blob/master/product_designer.md) (posted May 2018, in Danish)
+*We currently don't have any open positions*
+
+However, we might soon be looking for an
+[Elixir developer](https://github.com/wise-home/jobs/blob/master/backend_developer.md). Stay tuned.

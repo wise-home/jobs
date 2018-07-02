@@ -4,6 +4,8 @@ Posted February 2018
 
 **Update April 2018: This job posting is no longer active**
 
+**Update July 2018: This job posting might be active again during the next 3-6 months**
+
 ## About Wise Home
 
 Wise Home is a Danish startup from 2016. We build smart home systems.

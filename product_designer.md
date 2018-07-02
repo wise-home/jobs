@@ -2,6 +2,8 @@
 
 Opslået maj 2018.
 
+**Update juli 2018: Denne annonce er ikke længere aktiv**
+
 ## Om Wise Home
 
 Wise Home er stiftet i 2016 og er på en mission for at gøre udlejningsejendomme intelligente gennem *smart home* teknologi. Målere og sensorer installeret i ejendommen kommunikerer trådløst med Wise Home og giver mulighed for at hjælpe den enkelte beboer til at opnå det bedst mulige indeklima, og giver udlejer mulighed for at lave fuldautomatiske fordelingsregnskaber. Og mange flere muligheder og integrationer er på vej.
