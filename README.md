@@ -8,4 +8,4 @@ Open positions:
 *We currently don't have any open positions*
 
 However, we might soon be looking for an
-[Elixir developer](https://github.com/wise-home/jobs/blob/master/backend_developer.md). Stay tuned.
+[Elixir developer](https://github.com/wise-home/jobs/blob/master/2018/backend_developer.md). Stay tuned.
