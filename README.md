@@ -5,7 +5,4 @@ We are enthusiastic about our jobs and are given the freedom to do our best.
 
 Open positions:
 
-*We currently don't have any open positions*
-
-However, we might soon be looking for an
-[Elixir developer](https://github.com/wise-home/jobs/blob/master/2018/backend_developer.md). Stay tuned.
+* [Backend developer (posted December 2020)](https://github.com/wise-home/jobs/blob/master/2020/backend_developer.md). Stay tuned.
