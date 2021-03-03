@@ -5,4 +5,4 @@ We are enthusiastic about our jobs and are given the freedom to do our best.
 
 Open positions:
 
-* [Backend developer (posted December 2020)](https://github.com/wise-home/jobs/blob/master/2020/backend_developer.md)
+There are currently no open positions in the dev team of Wise Home.
